@@ -28,11 +28,9 @@ After all this has been done, move a set of vertices in the cage, then the defor
 
 - This is a visualization of the coordinates values for different cage vertices.
 
-<img src="img/heatmap.gif" alt="heatmap" style="zoom: 25%;" />
+<img src="img/heatmap.gif" alt="heatmap" width="300" />
 
-- Here are some results using harmonic coordinates. 
-
-<video src="img/Basic cage.mov"></video>
+- [Here](https://github.com/MinervaMint/Harmonic-Coordinates/blob/master/img/Basic%20cage.mov) are some results using harmonic coordinates. 
 
 #### Interior Control
 
